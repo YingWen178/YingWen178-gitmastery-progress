@@ -59,14 +59,5 @@
       "That is not the right Github url!"
     ],
     "status": "Incomplete"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1768923082.990864,
-    "completed_at": 1768923086.381526,
-    "comments": [
-      "Missing remote called 'upstream'."
-    ],
-    "status": "Incomplete"
   }
 ]
